@@ -2,7 +2,7 @@ Module 1, Challenge one Challenge by Sergey Holin
 
 *GitHub Repo link: https://github.com/sergeyholin/Challenge-1
 
-*Deployed Website link: 
+*Deployed Website link: https://sergeyholin.github.io/Challenge-1/
 
 TASK DESCRIPTION:
 
@@ -30,4 +30,4 @@ ADDITIONAL CRITERIA:
 
 SCREENSHOT:
 
-<img src="./develop/assets/images/Screenshot.png"/>
+<img src="./develop/assets/images/screenshot.png"/>

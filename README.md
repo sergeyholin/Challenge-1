@@ -30,4 +30,4 @@ ADDITIONAL CRITERIA:
 
 SCREENSHOT:
 
-<img src="./develop/assets/images/screenshot.png"/>
+<img src="./assets/images/screenshot.png/"/>
